@@ -1,0 +1,50 @@
+c:\users\nihal nm\source\repos\OcrReader\OcrReader\bin\Debug\x64\liblept172.dll
+c:\users\nihal nm\source\repos\OcrReader\OcrReader\bin\Debug\x64\libtesseract304.dll
+c:\users\nihal nm\source\repos\OcrReader\OcrReader\bin\Debug\x86\liblept172.dll
+c:\users\nihal nm\source\repos\OcrReader\OcrReader\bin\Debug\x86\libtesseract304.dll
+c:\users\nihal nm\source\repos\OcrReader\OcrReader\bin\Debug\OcrReader.exe.config
+c:\users\nihal nm\source\repos\OcrReader\OcrReader\bin\Debug\OcrReader.exe
+c:\users\nihal nm\source\repos\OcrReader\OcrReader\bin\Debug\OcrReader.pdb
+c:\users\nihal nm\source\repos\OcrReader\OcrReader\bin\Debug\Tesseract.dll
+c:\users\nihal nm\source\repos\OcrReader\OcrReader\bin\Debug\Tesseract.xml
+c:\users\nihal nm\source\repos\OcrReader\OcrReader\obj\Debug\OcrReader.csproj.CoreCompileInputs.cache
+c:\users\nihal nm\source\repos\OcrReader\OcrReader\obj\Debug\OcrReader.exe
+c:\users\nihal nm\source\repos\OcrReader\OcrReader\obj\Debug\OcrReader.pdb
+C:\Users\NIHAL NM\source\repos\OcrReader\OcrReader\obj\Debug\OcrReader.csprojResolveAssemblyReference.cache
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\bin\Debug\x64\liblept172.dll
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\bin\Debug\x64\libtesseract304.dll
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\bin\Debug\x86\liblept172.dll
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\bin\Debug\x86\libtesseract304.dll
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\bin\Debug\OcrReader.exe.config
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\bin\Debug\OcrReader.exe
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\bin\Debug\OcrReader.pdb
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\bin\Debug\Tesseract.dll
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\bin\Debug\Tesseract.xml
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\obj\Debug\OcrReader.csprojResolveAssemblyReference.cache
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\obj\Debug\OcrReader.csproj.CoreCompileInputs.cache
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\obj\Debug\OcrReader.exe
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\obj\Debug\OcrReader.pdb
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\bin\Debug\AForge.dll
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\bin\Debug\AForge.Imaging.dll
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\bin\Debug\AForge.Math.dll
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\bin\Debug\Bytescout.Spreadsheet.dll
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\bin\Debug\Bytescout.Spreadsheet.xml
+C:\Users\faris\Documents\Visual Studio 2017\Projects\OcrReader\OcrReader\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\faris\Desktop\OcrReader\OcrReader\bin\Debug\x64\liblept172.dll
+C:\Users\faris\Desktop\OcrReader\OcrReader\bin\Debug\x64\libtesseract304.dll
+C:\Users\faris\Desktop\OcrReader\OcrReader\bin\Debug\x86\liblept172.dll
+C:\Users\faris\Desktop\OcrReader\OcrReader\bin\Debug\x86\libtesseract304.dll
+C:\Users\faris\Desktop\OcrReader\OcrReader\bin\Debug\OcrReader.exe.config
+C:\Users\faris\Desktop\OcrReader\OcrReader\bin\Debug\OcrReader.exe
+C:\Users\faris\Desktop\OcrReader\OcrReader\bin\Debug\OcrReader.pdb
+C:\Users\faris\Desktop\OcrReader\OcrReader\bin\Debug\Bytescout.Spreadsheet.dll
+C:\Users\faris\Desktop\OcrReader\OcrReader\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\faris\Desktop\OcrReader\OcrReader\bin\Debug\Tesseract.dll
+C:\Users\faris\Desktop\OcrReader\OcrReader\bin\Debug\Bytescout.Spreadsheet.xml
+C:\Users\faris\Desktop\OcrReader\OcrReader\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\faris\Desktop\OcrReader\OcrReader\bin\Debug\Tesseract.xml
+C:\Users\faris\Desktop\OcrReader\OcrReader\obj\Debug\OcrReader.csproj.CoreCompileInputs.cache
+C:\Users\faris\Desktop\OcrReader\OcrReader\obj\Debug\OcrReader.exe
+C:\Users\faris\Desktop\OcrReader\OcrReader\obj\Debug\OcrReader.pdb
+C:\Users\faris\Desktop\OcrReader\OcrReader\obj\Debug\OcrReader.csprojResolveAssemblyReference.cache
